@@ -3,6 +3,7 @@
 **Date:** February 13, 2026  
 
 ---
+## Assignment 1: Serverless Computing - Critical Analysis
 
 # Part 1: Paper Summary
 
